@@ -1,4 +1,4 @@
-#Analyse projet Green IT
+#Analyse projet Green IT - BORIES Thomas / DENIS Benjamin / MAHMAL Mehdi
 ##Contexte du projet
 Dans le cadre de ce projet, nous devont calculer et restituer la consommation énergétique d'un raspberry pi.
 Suite à différentes recherches, nous avons choisi un projet simple, bas niveau, qui nous permettrais facilement de comprendre le fonctionnement du matériel pour ensuite passer à des logiciels plus conséquent comme PowerAPI ou PowerTop.
